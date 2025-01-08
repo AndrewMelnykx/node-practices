@@ -1,0 +1,16 @@
+{
+  "name": "crush-course",
+  "version": "1.0.0",
+  "description": "Node.js course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-practices"
+  },
+  "author": "Andrew Melnyks",
+  "license": "MIT"
+}
