@@ -5,12 +5,16 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "start"
+    "test": "start",
+    "start": "nodemon server2.js"
   },
   "repository": {
     "type": "git",
     "url": "node-practices"
   },
-  "author": "Andrew Melnyks",
-  "license": "MIT"
+  "author": "Andrew Melnyk",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
